@@ -9,3 +9,18 @@ React --> Next --> **Blitz**
 https://blitzjs.com
 
 https://github.com/blitz-js/blitz
+
+## Install once globally on your computer
+
+```sh
+yarn global add blitz
+```
+
+## Set up a new project to run on http://localhost:3000
+
+```sh
+blitz new myAppName
+cd myAppName
+blitz dev
+# http://localhost:3000
+```
