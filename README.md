@@ -2,11 +2,15 @@
 
 Just one of the things I'm learning. https://github.com/hchiam/learning
 
+BlitzJS is a "meta meta framework" with some common functionalities already figured out like routing, APIs, project structure, and user signup/login/authentication/reset:
+
 Framework --> Meta Framework --> **Meta Meta Framework**
 
 React --> Next --> **Blitz**
 
 https://blitzjs.com
+
+https://blitzjs.com/docs/get-started
 
 https://github.com/blitz-js/blitz
 
@@ -16,6 +20,8 @@ https://github.com/blitz-js/blitz
 yarn global add blitz
 ```
 
+(Or `npm install -g blitz --legacy-peer-deps`)
+
 ## Set up a new project to run on http://localhost:3000
 
 ```sh
@@ -24,3 +30,7 @@ cd myAppName
 blitz dev
 # http://localhost:3000
 ```
+
+## Tutorial
+
+https://blitzjs.com/docs/tutorial
