@@ -35,6 +35,12 @@ blitz dev
 # http://localhost:3000
 ```
 
+## Getting node version warnings?
+
+```sh
+nvm install v16.13.1; node --version
+```
+
 ## Tutorial
 
 https://blitzjs.com/docs/tutorial
