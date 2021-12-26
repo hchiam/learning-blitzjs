@@ -22,6 +22,8 @@ yarn global add blitz
 
 (Or `npm install -g blitz --legacy-peer-deps`)
 
+I had to update my Node.js version to get the `yarn` command to work: https://github.com/hchiam/learning-nodejs
+
 ## Set up a new project to run on http://localhost:3000
 
 ```sh
