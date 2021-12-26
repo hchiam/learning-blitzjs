@@ -2,13 +2,15 @@
 
 Just one of the things I'm learning. https://github.com/hchiam/learning
 
-BlitzJS is a "meta meta framework" with some common functionalities already figured out like routing, APIs, project structure, and user signup/login/authentication/reset:
+BlitzJS is a [_**full-stack**_](https://blitzjs.com/docs/why-blitz) "meta meta framework" with some common functionalities already figured out for you (instead of bare-bones), like routing, APIs, project structure, and user signup/login/authentication/reset:
 
 Framework --> Meta Framework --> **Meta Meta Framework**
 
 React --> Next --> **Blitz**
 
 https://blitzjs.com
+
+https://blitzjs.com/docs/why-blitz
 
 https://blitzjs.com/docs/get-started
 
