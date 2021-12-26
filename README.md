@@ -29,8 +29,8 @@ I had to update my Node.js version to get the `yarn` command to work: https://gi
 ## Set up a new project to run on http://localhost:3000
 
 ```sh
-blitz new example-project
-cd example-project
+blitz new blitz-example-project
+cd blitz-example-project
 blitz dev
 # http://localhost:3000
 ```
