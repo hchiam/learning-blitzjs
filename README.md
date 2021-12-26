@@ -35,6 +35,8 @@ blitz dev
 # http://localhost:3000
 ```
 
+https://github.com/hchiam/blitz-example-project
+
 ## Getting node version warnings?
 
 ```sh
